@@ -1,0 +1,1 @@
+# Computer-Reset-Restore---Using-Acer-Computer-as-Example
