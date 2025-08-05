@@ -1,4 +1,4 @@
-# The content includes the related tems and explanation / the content of computer reset(restore) / the SOP Of computer reset(restore)
+# The content includes tems and explanation / content  / SOP 
 
 🌟The related tems and explanation:  
 Computer Reset (Restore) Related Terms
