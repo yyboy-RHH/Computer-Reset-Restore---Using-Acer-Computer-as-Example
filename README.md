@@ -11,25 +11,11 @@ Computer Reset (Restore) Contents
 2.Restore to factory defaults by Hot Key  
 3.Perform system restore by USB  
 
-***
-
-
-The completeness of a computer cleanup depends on the following two factors:
-
-  1.Hard drive data sanitization – Whether the drive has been fully erased, ensuring all files are permanently removed with no residual data (i.e., whether a full format has been performed).
-
-  2.Source of the Microsoft operating system for reinstall/reset/restore – Whether the installation media originates from an external source rather than the computer’s internal recovery environment.
-
-   -External source: Custom-created Microsoft OS installation USB/DVD, or files downloaded from Microsoft’s cloud servers.
-   -Internal source: Recovery image stored on the local drive.
-
-Note: Using an external source is generally considered cleaner because the installation files are obtained fresh from Microsoft’s distribution servers or verified installation media, reducing the risk of reinstalling system files that may have been altered, corrupted, or infected on the local machine.
-
 
 ***
 
 
-The completeness of a computer cleanup depends on the following two factors:
+#The completeness of a computer cleanup depends on the following two factors:
 
     Hard drive data sanitization – Whether the drive has been fully erased, ensuring all files are permanently removed with no residual data (i.e., whether a full format has been performed).
 
