@@ -15,7 +15,7 @@ Computer Reset (Restore) Contents
 ***
 
 
-#The completeness of a computer cleanup depends on the following two factors:
+# The completeness of a computer cleanup depends on the following two factors:
 
     Hard drive data sanitization – Whether the drive has been fully erased, ensuring all files are permanently removed with no residual data (i.e., whether a full format has been performed).
 
